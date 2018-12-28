@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+#form{
+	width:800px;
+	height:600px;
+	background-color:#FFF;
+	margin-left:20%;
+}
+
+#baslik{
+	    width: 800px;
+    height: 50px;
+    background-color: aqua;
+margin-top: 100px;
+}
+
+#bilgiler{
+	width: 500px;
+    height: 500px;
+    background-color: #FFF;
+    margin-left: 17%;
+    margin-top: 5%;
+}
+#isim{
+	width: 40%;
+    height: 20%;
+    background-color: #FFF;
+	margin-left: 30px;
+}
+#mail{
+	height: 20%;
+    width: 40%;
+    background-color: #FFF;
+	    margin-left: 260px;
+		margin-top: -100px;
+}
+#sifre{
+	    width: 40%;
+    height: 20%;
+    background-color: #FFF;
+	margin-top: 40px;
+	margin-left: 30px;
+}
+#yas{
+	width: 40%;
+    height: 20%;
+    background-color: #FFF;
+	margin-left: 260px;
+    margin-top: -100px;
+}
